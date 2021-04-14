@@ -1,0 +1,16 @@
+D:\Design_Pattern\Day01\ObserverDP\bin\Debug\net5.0\ObserverDP.exe
+D:\Design_Pattern\Day01\ObserverDP\bin\Debug\net5.0\ObserverDP.deps.json
+D:\Design_Pattern\Day01\ObserverDP\bin\Debug\net5.0\ObserverDP.runtimeconfig.json
+D:\Design_Pattern\Day01\ObserverDP\bin\Debug\net5.0\ObserverDP.runtimeconfig.dev.json
+D:\Design_Pattern\Day01\ObserverDP\bin\Debug\net5.0\ObserverDP.dll
+D:\Design_Pattern\Day01\ObserverDP\bin\Debug\net5.0\ref\ObserverDP.dll
+D:\Design_Pattern\Day01\ObserverDP\bin\Debug\net5.0\ObserverDP.pdb
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ObserverDP.csprojAssemblyReference.cache
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ObserverDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ObserverDP.AssemblyInfoInputs.cache
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ObserverDP.AssemblyInfo.cs
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ObserverDP.csproj.CoreCompileInputs.cache
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ObserverDP.dll
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ref\ObserverDP.dll
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ObserverDP.pdb
+D:\Design_Pattern\Day01\ObserverDP\obj\Debug\net5.0\ObserverDP.genruntimeconfig.cache
