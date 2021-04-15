@@ -14,5 +14,5 @@
 * State
 
 # Task
-* Prototype Creational Design Pattern
+* Chain Of Responsibility Behavior Design Pattern
 [Matrial_Link](https://drive.google.com/drive/u/0/folders/1p1CTe_xAyHHjYaOceGqZkZ7BoRnAPW0j)
